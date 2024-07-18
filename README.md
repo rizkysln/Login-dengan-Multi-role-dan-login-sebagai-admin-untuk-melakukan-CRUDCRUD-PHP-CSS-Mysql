@@ -1,3 +1,5 @@
+# untuk pembuatan database silahkan buat db_mahasiswa kemudian copy paste kode sql dari file database.txt
+# 
 # Insert Manual terlebih dahulu data untuk role admin dan role user seperti contoh berikut
 ![image](https://github.com/user-attachments/assets/dbcd18c0-e74d-4503-8a25-97f05b2c289c)
 # Silahkan Login menggunakan username dan password yang kamu insert di role admin
